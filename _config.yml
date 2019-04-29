@@ -11,7 +11,7 @@ github_repo: "https://github.com/jianxinguo1992/" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "人在上海的java coder"
+sidebar-about-description: "人在上海的java coder, 为进大厂做准备"
 sidebar-avatar: /img/me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
